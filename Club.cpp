@@ -80,7 +80,7 @@ void Club::displayPlayerNames()
          << getTotalSquadValue() << " million"
          << endl;
 
-    cout << "\n---------- SQUAD ----------"
+    cout << "\n------ SQUAD -------"
          << endl;
 
     for (int i = 0; i < squad.size(); i++)
