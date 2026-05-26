@@ -51,7 +51,9 @@ How To Run
 
 Author
 
-Idrissa Kamara
+Name: Idrissa Kamara
+ID: 81611
+Program: BSc Computer Science
 
 Repository
 
