@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1779766394 source:c:\users\idris\documents\c++ projects\transfer_market_simulator\club.cpp
+	"Club.h"
+
+1779805497 source:c:\users\idris\documents\c++ projects\transfer_market_simulator\main.cpp
+	<iostream>
+	<vector>
+	"Player.h"
+	"Club.h"
+	"TransferSystem.h"
+	"TransferHistory.h"
+
+1779806240 source:c:\users\idris\documents\c++ projects\transfer_market_simulator\transfersystem.cpp
+	"TransferSystem.h"
+	"TransferAnnouncement.h"
+	"NegotiationSystem.h"
+	"TransferHistory.h"
+
+1779580497 source:c:\users\idris\documents\c++ projects\transfer_market_simulator\player.cpp
+	"Player.h"
+
+1779571145 c:\users\idris\documents\c++ projects\transfer_market_simulator\player.h
+	<iostream>
+
+1779765999 c:\users\idris\documents\c++ projects\transfer_market_simulator\club.h
+	<iostream>
+	<vector>
+	"Player.h"
+
+1779581458 c:\users\idris\documents\c++ projects\transfer_market_simulator\transfersystem.h
+	<iostream>
+	"Club.h"
+
+1779760079 source:c:\users\idris\documents\c++ projects\transfer_market_simulator\transferannouncement.cpp
+	"TransferAnnouncement.h"
+
+1779588521 c:\users\idris\documents\c++ projects\transfer_market_simulator\transferannouncement.h
+	<iostream>
+	"Player.h"
+	"Club.h"
+
+1779751992 source:c:\users\idris\documents\c++ projects\transfer_market_simulator\negotiationsystem.cpp
+	"NegotiationSystem.h"
+
+1779751211 c:\users\idris\documents\c++ projects\transfer_market_simulator\negotiationsystem.h
+	<iostream>
+
+1779757249 c:\users\idris\documents\c++ projects\transfer_market_simulator\transferhistory.h
+	<iostream>
+	<vector>
+
+1779758471 source:c:\users\idris\documents\c++ projects\transfer_market_simulator\transferhistory.cpp
+	"TransferHistory.h"
+
